@@ -91,8 +91,9 @@ a {
 
 /* 通用樣式 */
 .container {
-  width: 1296px;
+  max-width: 1296px;
   margin: 0 auto;
+  padding: 0 12px;
 }
 
 .row {
